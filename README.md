@@ -1,5 +1,5 @@
-# Hi I’m Oluwapelumi, 
-#👋 Welcome to my Page.
+# Hi, I’m Oluwapelumi 🥰.
+# Welcome to my Page 🤗.
 <!--
 **Amospelumi/Amospelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
