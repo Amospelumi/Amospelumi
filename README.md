@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmospelumi%2F&count_bg=%230B1CAE&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-## Basically What I'm Interested in,
+## Basically What I'm Interested in:
 
 
 - 🔭 Anything that involve Technology.
