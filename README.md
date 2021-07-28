@@ -1,7 +1,7 @@
- # Hi, I’m Oluwapelumi <img src="wink.gif" width="10%">.
+ # Hi, I’m Oluwapelumi.
  
-# Welcome to my Page .
-<img src="wave.gif" width="10%">
+# Welcome to my Page <img src="wink.gif" width="5%">.
+
 .
 <!--
 **Amospelumi/Amospelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on Interesting Projects.
 - 🤔 I’m looking for Friends we can always discuss about Developing New things.
 - 📱 I love to work on UI/UX Projects as well.
-- 🤝 Feel free to share anything with me.
+- 🤝 Feel free to share anything with me  <img src="wave.gif" width="5%">.
 
 
 
