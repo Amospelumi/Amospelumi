@@ -2,7 +2,7 @@
  
 # Welcome to my Page <img src="wink.gif" width="5%">.
 
-.
+
 <!--
 **Amospelumi/Amospelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
